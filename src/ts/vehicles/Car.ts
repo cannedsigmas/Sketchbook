@@ -103,7 +103,7 @@ export class Car extends Vehicle implements IControllable
 			'2': 200,
 			'3': 300,
 			'4': 400,
-			'5': 5000000,
+			'5': 500,
 		};
 
 		if (this.shiftTimer > 0)
