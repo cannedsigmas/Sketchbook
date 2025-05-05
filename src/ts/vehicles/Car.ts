@@ -99,11 +99,11 @@ export class Car extends Vehicle implements IControllable
 		const gearsMaxSpeeds = {
 			'R': -4,
 			'0': 0,
-			'1': 10,
-			'2': 20,
-			'3': 30,
-			'4': 40,
-			'5': 50,
+			'1': 100,
+			'2': 200,
+			'3': 300,
+			'4': 400,
+			'5': 5000000,
 		};
 
 		if (this.shiftTimer > 0)
